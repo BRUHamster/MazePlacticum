@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "e:\\unreal\\prac2\\project\\source\\project\\project.cpp",
+        "ProvidedModule": "",
+        "PCH": "e:\\unreal\\prac2\\project\\intermediate\\build\\win64\\x64\\projecteditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "e:\\unreal\\prac2\\project\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\project\\definitions.project.h",
+            "e:\\unreal\\prac2\\project\\source\\project\\project.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

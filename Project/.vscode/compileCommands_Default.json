@@ -1,0 +1,42 @@
+[
+	{
+		"file": "E:\\Unreal\\Prac2\\Project\\Source\\Project\\MazeGenerator.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@E:\\Unreal\\Prac2\\Project\\.vscode\\compileCommands_Default\\Project.1.rsp"
+		],
+		"directory": "E:\\Unreal\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "E:\\Unreal\\Prac2\\Project\\Source\\Project\\MazeGenerator.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@E:\\Unreal\\Prac2\\Project\\.vscode\\compileCommands_Default\\Project.1.rsp"
+		],
+		"directory": "E:\\Unreal\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "E:\\Unreal\\Prac2\\Project\\Source\\Project\\Project.Build.cs",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@E:\\Unreal\\Prac2\\Project\\.vscode\\compileCommands_Default\\Project.1.rsp"
+		],
+		"directory": "E:\\Unreal\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "E:\\Unreal\\Prac2\\Project\\Source\\Project\\Project.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@E:\\Unreal\\Prac2\\Project\\.vscode\\compileCommands_Default\\Project.1.rsp"
+		],
+		"directory": "E:\\Unreal\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "E:\\Unreal\\Prac2\\Project\\Source\\Project\\Project.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@E:\\Unreal\\Prac2\\Project\\.vscode\\compileCommands_Default\\Project.1.rsp"
+		],
+		"directory": "E:\\Unreal\\UE_5.6\\Engine\\Source"
+	}
+]
